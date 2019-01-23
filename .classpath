@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/antlr-2.7.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/bsf-2.3.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-chain-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/commons-validator-1.3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/jstl-1.0.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/standard-1.0.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-core-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-el-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-extras-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-faces-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-mailreader-dao-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-scripting-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-taglib-1.3.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/struts-tiles-1.3.10.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
